@@ -1,2 +1,2 @@
 # Prompt-Chronicles
-This project primarily record my prompt engineering practices. 
+This project primarily records my prompt engineering practices. 
